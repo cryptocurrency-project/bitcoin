@@ -1,14 +1,14 @@
 ## Bitcoin Core
-[bitcoincore](https://bitcoincore.org/bin/)
+[bitcoin core](https://bitcoincore.org/bin/)
 
 ## Bitcoin Formula
-[bitcoin](https://github.com/bitcoin/bitcoin)
+[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 
 ## Bitcoin API
 [Bitcoin CLI API](https://chainquery.com/bitcoin-cli)
 
 ## Bitcoin Explorer
-[Blockchain.com](https://www.blockchain.com/ja/explorer)  
+[blockchain.com](https://www.blockchain.com/ja/explorer)  
 [bitflyer](https://chainflyer.bitflyer.jp/)
 
 ## Build method
