@@ -1,14 +1,14 @@
 ## Bitcoin Core
 [bitcoincore](https://bitcoincore.org/bin/)
 
-## Nem Formula
+## Bitcoin Formula
 [bitcoin](https://github.com/bitcoin/bitcoin)
 
-## Nem API
+## Bitcoin API
 [Bitcoin CLI API](https://chainquery.com/bitcoin-cli)
 
-## Nem Explorer
-[Blockchain.com](https://www.blockchain.com/ja/explorer)
+## Bitcoin Explorer
+[Blockchain.com](https://www.blockchain.com/ja/explorer)  
 [bitflyer](https://chainflyer.bitflyer.jp/)
 
 ## Build method
